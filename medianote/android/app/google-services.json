@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1070070238067",
+    "project_id": "medianote-6933d",
+    "storage_bucket": "medianote-6933d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070070238067:android:0a0bb16b990e9ae1a89306",
+        "android_client_info": {
+          "package_name": "com.example.medianote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1070070238067-4aft43q9pdmt4g1b4504nf7lq10616sh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ-lkDIXdU5-aKGtTL85YdrzXxR5L5YoE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1070070238067-4aft43q9pdmt4g1b4504nf7lq10616sh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
